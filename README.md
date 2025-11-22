@@ -1,7 +1,12 @@
 ![Profile Image](./readMeImageGitHub.png)
-# 💫 About Me:
-Hi! I love creating, exploring, and learning something new every day. My passions blend technology, design, and art, all driven by a curiosity to understand and experience more of the world.<br><br>💻 Programming<br><br>I enjoy working with web technologies and building projects that help me grow as a developer. My current focus includes HTML, CSS, JavaScript and PHP<br><br>🎨 Design & Creativity<br><br>I’m passionate about UI/UX design and love crafting clean, meaningful user experiences.<br>I also enjoy working in Adobe Photoshop for digital art, editing, and creative visuals.<br>Along with 2D design, I like exploring Blender and 3D modeling, creating models and experimenting with animation and rendering.<br><br>✏️ Drawing<br><br>Traditional drawing is another creative outlet for me. I love sketching and experimenting with different art styles.<br><br>✈️ Traveling<br><br>Traveling inspires me. I enjoy exploring new places, learning about different cultures, and finding new ideas that influence both my design and development work.
-
+# ☁️ Hi there! 
+I’m a **third-year Computer Science student** passionate about technology, design, and creativity.
+### 💻 Programming
+I enjoy building projects with web technologies like **HTML, CSS, JavaScript, and PHP** to grow as a developer.
+### 🎨 Design & Creativity
+I love crafting clean **UI/UX experiences**, creating digital art in **Photoshop**, and exploring **3D modeling and animation in Blender**.
+### ✏️ Drawing & Travel
+Traditional drawing and traveling inspire my creativity, helping me explore new ideas and perspectives.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ПетяИгнатова) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_5ya._) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:petyaignatova1551@gmail.com) 
